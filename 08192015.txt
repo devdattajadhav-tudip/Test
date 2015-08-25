@@ -1,0 +1,14 @@
+Todo
+	List out the things that are mandatory and optional to say that you are an iOS developer.
+	Which are the languages that are used in iOS development and explain them in brief
+	List out the features and evolution in "iOS 7 from iOS 6" and "iOS 8 Beta from iOS 7"
+	What is IDE and which editor/IDE is used for iOS development?
+	What are the options available to run the iOS code?
+
+Doing
+	List out the things that are mandatory and optional to say that you are an iOS developer.
+	
+Done
+	Define iOS and its uses in your own words.
+ 
+
